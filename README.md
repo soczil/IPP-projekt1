@@ -1,5 +1,7 @@
 # IPP-projekt1
 
+Task:
+
 The goal of the task is to write a program describing the behavior of a particle in an imaginary quantum world. The particle can reside in four quantum states, denoted by the numbers 0, 1, 2 and 3. The quantum history of a particle is a non-empty sequence of consecutive quantum states in which the particle resided, but only some quantum stories of the particle are acceptable. The admissible quantum history of a particle can be attributed to quantized energy. This energy can be changed. An unacceptable quantum history of a particle cannot have energy assigned. The energies of two allowable quantum stories of a particle can be equated, which means that a change in energy for one of these stories also causes a change in the energy of the other. The energy equation relationship attributed to stories is equivalence.
 
 Possible commands:
